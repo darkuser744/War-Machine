@@ -6,3 +6,4 @@ A Phishing Tool For Windows.😎 <br>
 <h2> ❗❗❗ Strictly For Educational Purpose Only ❗❗❗ </h2>
 <h1>Demo,Check It Out Here 👉 <a href="https://viralhacks.net/War_Machine_Demo">Demo</a></h1>
 <h2>One Mask Is Enough To Face Million Faces :)</h2>
+<h2>Xmr : 4A5kT57XQKC37K1R6DfYeJcR1ELaWhdBCGpYP756RJAZTFBatvZ4q2wNDXopnaREHoBrkSCs8FNj5FXofwKJwMgJ2qUHg5S</h2>
